@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LayoutExamples</string>
+    <string name="tea_question">How do you like your tea served?</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="send_button">Send</string>
+    <string name="message_hint">Message</string>
+</resources>
